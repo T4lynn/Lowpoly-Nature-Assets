@@ -92,7 +92,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 1
     - _GlossyReflections: 1
-    - _IntensityCutoutMap: 0.5
+    - _IntensityCutoutMap: 0.61
     - _IntensityMask: 1
     - _InvertABaseColor: 0
     - _InvertCutout: 1
